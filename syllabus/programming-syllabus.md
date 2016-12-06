@@ -67,7 +67,7 @@ work for you, you will be able to do more science faster.
 ### Website
 
 The syllabus and other relevant class information and resources will be posted
-at [http://programmingforbiolgists.org](http://programmingforbiolgists.org/).
+at [{{ site.url }}]({{ site.url }}).
 Changes to the schedule will be posted to this site so please try to check it
 periodically for updates.
 

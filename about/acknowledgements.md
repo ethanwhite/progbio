@@ -8,13 +8,13 @@ redirect_from: /acknowledgements/
 
 The [National Science Foundation](http://nsf.gov) is supporting the
 development of both the university courses and this site through
-grant [0953694](/awardsearch/showAward.do?AwardNumber=0953694 "Use this link to retrieve the award").
+an [NSF CAREER award](http://nsf.gov/awardsearch/showAward?AWD_ID=0953694).
 
 #### Department of Biology at Utah State University
 
 USU's [Department of Biology](http://www.biology.usu.edu) and in
 particular [Dept. Head Butch
-Brodie](http://www.biology.usu.edu/htm/our-people/faculty/memberID=3059)
+Brodie](http://www.biology.usu.edu/about/faculty/edmund-brodie)
 and former [Dept. Head Daryll
 Dewald](http://facultystaff.wsu.edu/adminphotos/?faculty/67) have
 supported the development of the university courses through time off

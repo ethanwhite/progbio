@@ -45,7 +45,7 @@ import errors. If it was me I'd take are careful look `hft` and
 `wgt` (which are weights and hindfoot lenths and should therefore be
 numbers) and at `tag`, either by opening the file in Excel or by
 checking the portion of the table from the [Databases 1
-problem](databases-1-problem) to see what might be an issue. When you're
+problem](/exercises/Databases-1-problem) to see what might be an issue. When you're
 finished click `Next`
 
 ​j. Select `Choose my own primary key`, choose `recordID`, and click

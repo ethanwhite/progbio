@@ -6,21 +6,20 @@ redirect_from: /schedule-advanced/
 
 ### Week 1 The Shell
 
-* [Introducing the Shell](http://software-carpentry.org/v5/novice/shell/00-intro.html)
-* [Files and Directories](http://software-carpentry.org/v5/novice/shell/01-filedir.html)
-* [Creating Things](http://software-carpentry.org/v5/novice/shell/02-create.html)
-* [Pipes and Filters](http://software-carpentry.org/v5/novice/shell/03-pipefilter.html)
-* [Loops](http://software-carpentry.org/v5/novice/shell/04-loop.html)
-* [Shell Scripts](http://software-carpentry.org/v5/novice/shell/05-script.html)
+* [Introducing the Shell](http://swcarpentry.github.io/shell-novice/01-intro/)
+* [Files and Directories](http://swcarpentry.github.io/shell-novice/02-filedir/)
+* [Creating Things](http://swcarpentry.github.io/shell-novice/03-create/)
+* [Pipes and Filters](http://swcarpentry.github.io/shell-novice/04-pipefilter/)
+* [Loops](http://swcarpentry.github.io/shell-novice/05-loop/)
+* [Shell Scripts](http://swcarpentry.github.io/shell-novice/06-script/)
 
-[Assignment 1](/assignments/stuff-1/)
+[Assignment 1](/assignments/advanced-1/)
 
 ### Week 2: Version Control
 
-* [Introduction](http://software-carpentry.org/v5/novice/git/00-intro.html)
-* [A Better Kind of Backup](http://software-carpentry.org/v5/novice/git/01-backup.html)
-* [Collaborating](http://software-carpentry.org/v5/novice/git/02-collab.html)
-* [Conflicts](http://software-carpentry.org/v5/novice/git/03-conflict.html)
+* [Introduction](http://swcarpentry.github.io/git-novice/)
+* [Collaborating](http://swcarpentry.github.io/git-novice/08-collab/)
+* [Conflicts](http://swcarpentry.github.io/git-novice/09-conflict/)
 
 [Assignment 2](/assignments/advanced-2/)
 
@@ -28,7 +27,7 @@ redirect_from: /schedule-advanced/
 
 * [Introduction](http://nbviewer.ipython.org/github/swcarpentry/bc/blob/master/intermediate/python/01-intro-python.ipynb)
 * [Modularization & Documentation](http://nbviewer.ipython.org/urls/raw.github.com/swcarpentry/bc/master/intermediate/python/02-modularization-documentation.ipynb)
-* [First Class Functions](http://software-carpentry.org/v4/python/funcobj.html)
+* [First Class Functions](http://v4.software-carpentry.org/python/funcobj.html)
 
 The above is a fairly rapid overview. If you'd like a little more detail take a
 look at:
@@ -50,31 +49,31 @@ look at:
 
 ### Week 5: Data Structures
 
-* [Intro](http://software-carpentry.org/v4/setdict/intro.html)
-* [Tuples](http://software-carpentry.org/v4/setdict/tuples.html)
-* [Storage](http://software-carpentry.org/v4/setdict/storage.html)
-* [Dictionaries](http://software-carpentry.org/v4/setdict/dict.html)
-* [Aliasing](http://software-carpentry.org/v4/python/alias.html)
+* [Intro](http://v4.software-carpentry.org/setdict/intro.html)
+* [Tuples](http://v4.software-carpentry.org/setdict/tuples.html)
+* [Storage](http://v4.software-carpentry.org/setdict/storage.html)
+* [Dictionaries](http://v4.software-carpentry.org/setdict/dict.html)
+* [Aliasing](http://v4.software-carpentry.org/python/alias.html)
 
 [Assignment 5](/assignments/advanced-5/)
 
 ### Week 6 Databases using SQL - Queries
 
-* [Selecting Data](http://software-carpentry.org/v5/novice/sql/01-select.html)
-* [Sorting and Removing Duplicates](http://software-carpentry.org/v5/novice/sql/02-sort-dup.html)
-* [Filtering](http://software-carpentry.org/v5/novice/sql/03-filter.html)
-* [Calculating New Values](http://software-carpentry.org/v5/novice/sql/04-calc.html)
-* [Missing Data](http://software-carpentry.org/v5/novice/sql/05-null.html)
-* [Aggregation](http://software-carpentry.org/v5/novice/sql/06-agg.html)
-* [Combining Data](http://software-carpentry.org/v5/novice/sql/07-join.html)
+* [Selecting Data](http://swcarpentry.github.io/sql-novice-survey/01-select/)
+* [Sorting and Removing Duplicates](http://swcarpentry.github.io/sql-novice-survey/02-sort-dup/)
+* [Filtering](http://swcarpentry.github.io/sql-novice-survey/03-filter/)
+* [Calculating New Values](http://swcarpentry.github.io/sql-novice-survey/04-calc/)
+* [Missing Data](http://swcarpentry.github.io/sql-novice-survey/05-null/)
+* [Aggregation](http://swcarpentry.github.io/sql-novice-survey/06-agg/)
+* [Combining Data](http://swcarpentry.github.io/sql-novice-survey/07-join/)
 
 [Assignment 6](/assignments/advanced-6/)
 
 ### Week 7 Databases using SQL - Interfacing w/Python, Creating and Modifying, Database structure
 
 * [Python + SQLite](http://nbviewer.ipython.org/urls/github.com/ethanwhite/progbio/raw/master/ipynbs/python-databases.ipynb)
-* [Programming with Databases](http://software-carpentry.org/v5/novice/sql/09-prog.html)
-* [Creating and Modifying Data](https://github.com/swcarpentry/bc/blob/master/novice/sql/08-create.md)
+* [Programming with Databases](http://swcarpentry.github.io/sql-novice-survey/10-prog/)
+* [Creating and Modifying Data](http://swcarpentry.github.io/sql-novice-survey/09-create/)
 
 [Assignment 6](/assignments/advanced-6/)
 
@@ -87,7 +86,7 @@ look at:
 
 ### Week 9: Defensive Programming and Debugging
 
-* [Debugger](http://software-carpentry.org/v4/python/debugger.html)
+* [Debugger](http://v4.software-carpentry.org/python/debugger.html)
 * [Why you need to test](http://ivory.idyll.org/blog/automated-testing-and-research-software.html)
 * [Testing](https://github.com/swcarpentry/bc/blob/master/intermediate/python/03-qa.md) (including Exception Handling)
 
@@ -95,20 +94,20 @@ look at:
 
 ### Week 10: Oriented Programming
 
-* [Classes & Objects: Introduction](http://software-carpentry.org/v4/oop/intro.html)
-* [Classes & Objects: Basics](http://software-carpentry.org/v4/oop/basics.html)
-* [Classes & Objects: Interfaces](http://software-carpentry.org/v4/oop/interface.html)
-* [Classes & Objects: Inheritance](http://software-carpentry.org/v4/oop/inherit.html)
+* [Classes & Objects: Introduction](http://v4.software-carpentry.org/oop/intro.html)
+* [Classes & Objects: Basics](http://v4.software-carpentry.org/oop/basics.html)
+* [Classes & Objects: Interfaces](http://v4.software-carpentry.org/oop/interface.html)
+* [Classes & Objects: Inheritance](http://v4.software-carpentry.org/oop/inherit.html)
 
 [Assignment 8](/assignments/advanced-8/)
 
 ### Week 11: Program Design & Regular Expressions
 
-* [Regular Expressions: Introduction](http://software-carpentry.org/v4/regexp/intro.html)
-* [Regular Expressions: Operators](http://software-carpentry.org/v4/regexp/operators.html)
-* [Regular Expressions: Mechanics](http://software-carpentry.org/v4/regexp/mechanics.html)
-* [Regular Expressions: Patterns](http://software-carpentry.org/v4/regexp/patterns.html)
-* [Regular Expressions: More Tools](http://software-carpentry.org/v4/regexp/module.html)
+* [Regular Expressions: Introduction](http://v4.software-carpentry.org/regexp/intro.html)
+* [Regular Expressions: Operators](http://v4.software-carpentry.org/regexp/operators.html)
+* [Regular Expressions: Mechanics](http://v4.software-carpentry.org/regexp/mechanics.html)
+* [Regular Expressions: Patterns](http://v4.software-carpentry.org/regexp/patterns.html)
+* [Regular Expressions: More Tools](http://v4.software-carpentry.org/regexp/module.html)
 * [Code Like Pythonista](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html) (W)
 
 [Assignment 8](/assignments/advanced-8/)

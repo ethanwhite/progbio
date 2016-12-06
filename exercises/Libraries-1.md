@@ -4,7 +4,7 @@ title: Libraries 1
 ---
 
 This is a follow up to the
-[Higher Order Functions 2](exercises/higher-order-functions-2) problem.
+[Higher Order Functions 2](/exercises/Higher-order-functions-2) problem.
 
 After writing a program to estimate the number of species at a site of a
 given area based on the average predictions of a suite of different

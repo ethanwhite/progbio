@@ -3,7 +3,7 @@ layout: exercise
 title: Scientific Python 7
 ---
 
-*This problem is related to [Combining Basics 2](/exercises/Combining-basics-2),
+*This problem is related to [Combining Basics 2](/exercises/Combining-the-basics-2),
 but using the Pandas library.*
 
 Dr. Granger is interested in studying the factors controlling the size and

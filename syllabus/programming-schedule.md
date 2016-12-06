@@ -8,8 +8,8 @@ redirect_from: /schedule-intro/
 
 #### Reading:
 
-* [SWC Novice Python: Analyzing Patient Data](http://software-carpentry.org/v5/novice/python/01-numpy.html)
-    * [Associated data](https://raw.githubusercontent.com/swcarpentry/bc/master/novice/python/inflammation-01.csv) if you want to experiment with it (not required)
+* [SWC Novice Python: Analyzing Patient Data](http://swcarpentry.github.io/python-novice-inflammation/01-numpy/)
+    * [Associated data](http://swcarpentry.github.io/python-novice-inflammation/data/python-novice-inflammation-data.zip) if you want to experiment with it (not required)
 * [Errors](http://nbviewer.ipython.org/urls/github.com/ethanwhite/progbio/raw/master/ipynbs/errors.ipynb)
 
 [Assignment 1](/assignments/programming-1)
@@ -26,8 +26,8 @@ redirect_from: /schedule-intro/
 
 #### Reading:
 
-* [SWC Novice Python: Creating Functions](http://software-carpentry.org/v5/novice/python/02-func.html) (M)
-* [SWC Novice Python: Analyzing Multiple Data Sets](http://software-carpentry.org/v5/novice/python/03-loop.html) (W)
+* [SWC Novice Python: Creating Functions](http://swcarpentry.github.io/python-novice-inflammation/06-func/) (M)
+* [SWC Novice Python: Analyzing Multiple Data Sets](http://swcarpentry.github.io/python-novice-inflammation/02-loop/) (W)
 
 [Assignment 3](/assignments/programming-3)
 
@@ -35,7 +35,7 @@ redirect_from: /schedule-intro/
 
 #### Reading:
 
-* [SWC Novice Python: Making Choices](http://software-carpentry.org/v5/novice/python/04-cond.html)
+* [SWC Novice Python: Making Choices](http://swcarpentry.github.io/python-novice-inflammation/05-cond/)
 
 Additional Material: 
 [Problem decomposition](http://programmingforbiologists.org/material/problem-decomposition)

@@ -39,10 +39,8 @@ population size of 10. Once you've determined the value for each
 species, plot the time to equilibrium as a function of the reproductive
 rate and (on a separate graph) the carrying capacity.
 
-You can either break this problem down into manageable parts yourself
-(you can use the [problem decomposition
-steps](http://www.programmingforbiologists.org/problem-decomposition-steps)
-to help) or follow [this
-approach](http://www.programmingforbiologists.org/problem-decomposition-problem-decomposition).
+Break this problem down into manageable parts yourself
+using the [problem decomposition
+steps](http://www.programmingforbiologists.org/materials/problem-decomposition).
 Turn in the Python code and (if you use one) a database file with any
 queries that you use.
