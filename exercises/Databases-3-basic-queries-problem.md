@@ -14,7 +14,7 @@ metadata for this dataset is available online at
 [Ecological Archives](http://esapubs.org/archive/ecol/E090/118/metadata.htm).
 
 1.  Open the table with the Portal Survey Data that you created in the
-    [Databases 2 problem](databases-2-problem). Click the button at the bottom
+    [Databases 2 problem](/exercises/Databases-2-problem). Click the button at the bottom
     that looks like `>|` to jump to the end of the table. How many records are
     there? If you open the raw data file in Excel how many lines are there? Do
     they match (keeping in mind that one row in the raw data file is the
