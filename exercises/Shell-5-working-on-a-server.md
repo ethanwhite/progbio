@@ -3,7 +3,7 @@ layout: exercise
 title: Shell 5 - Working on a Server
 ---
 
-This is a follow up to the [Shell 4 - Making Executable Programs](shell-4-making-executable-programs).
+This is a follow up to the [Shell 4 - Making Executable Programs](exercises/Shell-4-making-executable-programs).
 
 Now that you've gotten your bash script working locally you decided to
 take it over to your groups server to do some serious analysis. Check

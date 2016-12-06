@@ -3,13 +3,13 @@ layout: page
 title: Intro to Databases for Biologists
 ---
 
-Instructor: [Dr. Ethan White](whitelab.weecology.org)
+Instructor: [Dr. Ethan White](http://whitelab.weecology.org)
 (ethan.white@usu.edu)
 
 * [Syllabus](/syllabus/databases-syllabus)
 * [Schedule](/syllabus/databases-schedule)
 * [Assignments](/assignments)
-* [Material](/material/databases-material)
+* [Material](/material)
 * [Setup](/computer-setup)
 
 Computers are increasingly essential to the study of all aspects of

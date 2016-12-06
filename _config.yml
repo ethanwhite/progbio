@@ -1,6 +1,6 @@
 # Dependencies
-markdown:         rdiscount
-highlighter:      pygments
+markdown:         kramdown
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Programming for Biologists
 tagline:          'A Jekyll theme'
 description:      'Teaching biologists the tools they need to use computers to do cool science'
-url:              http://www.progbio.org
+url:              http://www.programmingforbiologists.org/
 baseurl:          /
 
 author:
@@ -17,7 +17,7 @@ author:
   url:            https://twitter.com/ethanwhite
 
 github:
-  repo:           https://github.com/ethanwhite/progbio
+  repo:           https://github.com/ethanwhite/progbio/tree/gh-pages
 
 gems:
   - jekyll-redirect-from

@@ -44,7 +44,7 @@ as our primary material.
 
 An alternate presentation of many of the topics discussed in the course
 is availabe in [Practical Computing for
-Biologists](http://www.sinauer.com/detail.php?id=3914).
+Biologists](http://www.sinauer.com/practical-computing-for-biologists.html).
 
 For students looking for an good introduction to basic Python, I
 recommend. [“Practical Programming: An Introduction to Computer Science Using Python”](http://pragprog.com/book/gwpy/practical-programming)

@@ -41,7 +41,7 @@ to set up appointments less than 24 hours in advance.*
 
 There is no textbook for this class. We will use online materials at the course
 website and the [Software Carpentry](http://software-carpentry.org/) material on
-[Databases](http://software-carpentry.org/v4/access/index.html).
+[Databases](http://v4.software-carpentry.org/access/index.html).
 
 
 ### Course Objectives

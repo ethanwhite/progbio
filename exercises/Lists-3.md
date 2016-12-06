@@ -3,7 +3,7 @@ layout: exercise
 title: Lists 3
 ---
 
-This is a follow up to the [Lists 1](/exercises/lists-1) and [Lists
+This is a follow up to the [Lists 1](/exercises/Lists-1) and [Lists
 2](/exercises/lists-2) problems.
 
 When last we left you, our intrepid hero, you had created the following

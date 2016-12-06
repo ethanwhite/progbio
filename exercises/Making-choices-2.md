@@ -3,7 +3,7 @@ layout: exercise
 title: Making Choices 2
 ---
 
-As part of the [String Methods 2 problem](exercises/string-methods-2) you wrote
+As part of the [String Methods 2 problem](/exercises/Functions-6) you wrote
 a function to calculate the GC-content of a DNA sequence. Improve this function
 by making two additions/changes to it:
 

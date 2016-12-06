@@ -10,7 +10,7 @@ Instructor: [Dr. Ethan White](http://whitelab.weecology.org)
 * [Syllabus](/syllabus/advanced-syllabus)
 * [Schedule](/syllabus/advanced-schedule)
 * [Assignments](/assignments)
-* [Material](/material/advanced-material)
+* [Material](/material)
 * [Setup](/computer-setup)
 
 Computers are becoming increasingly essential to the study of

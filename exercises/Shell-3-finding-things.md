@@ -3,7 +3,7 @@ layout: exercise
 title: Shell 3 - Finding Things
 ---
 
-This is a follow question to [Shell 2 - Pipes and Filters](shell-2-pipes-and-filters).
+This is a follow question to [Shell 2 - Pipes and Filters](/exercises/Shell-2-pipes-and-filters).
 
 Your team quickly realizes that since it's going to have lots of data
 files it will be better to store them in their own directories to keep

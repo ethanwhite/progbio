@@ -4,7 +4,7 @@ title: Intro to Programming for Biologists
 redirect_from: /introduction-programming-and-database-management-biologists/
 ---
 
-Instructor: [Dr. Ethan White](whitelab.weecology.org)
+Instructor: [Dr. Ethan White](http://whitelab.weecology.org)
 (ethan.white@usu.edu)
 
 * [Syllabus](/syllabus/programming-syllabus)
