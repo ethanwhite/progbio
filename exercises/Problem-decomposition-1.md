@@ -41,6 +41,6 @@ rate and (on a separate graph) the carrying capacity.
 
 Break this problem down into manageable parts yourself
 using the [problem decomposition
-steps](http://www.programmingforbiologists.org/materials/problem-decomposition).
+steps](http://www.programmingforbiologists.org/material/problem-decomposition).
 Turn in the Python code and (if you use one) a database file with any
 queries that you use.

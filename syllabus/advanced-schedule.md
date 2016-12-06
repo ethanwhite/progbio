@@ -32,10 +32,10 @@ redirect_from: /schedule-advanced/
 The above is a fairly rapid overview. If you'd like a little more detail take a
 look at:
 
-* [Intro to Python: Analyzing Patient Data](http://software-carpentry.org/v5/novice/python/01-numpy.html)
-* [Intro to Python: Creating Functions](http://software-carpentry.org/v5/novice/python/02-func.html)
-* [Intro to Python: Analyzing Multiple Data Sets](http://software-carpentry.org/v5/novice/python/03-loop.html)
-* [Intro to Python: Making Choices](http://software-carpentry.org/v5/novice/python/04-cond.html)
+* [Intro to Python: Analyzing Patient Data](http://swcarpentry.github.io/python-novice-inflammation/01-numpy/)
+* [Intro to Python: Creating Functions](http://swcarpentry.github.io/python-novice-inflammation/06-func/)
+* [Intro to Python: Repeating Actions with Loops](http://swcarpentry.github.io/python-novice-inflammation/02-loop/)
+* [Intro to Python: Making Choices](http://swcarpentry.github.io/python-novice-inflammation/05-cond/)
 
 [Assignment 3](/assignments/advanced-3/)
 
